@@ -101,7 +101,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=chaturved&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=chaturved&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaturved&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
