@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chaturved 👋</h1>
+<h1 align="center">Hi, I'm Chaturved Sumanth 👋</h1>
 <h3 align="center">Software Engineer — building large-scale enterprise applications</h3>
 
 <p align="center">
